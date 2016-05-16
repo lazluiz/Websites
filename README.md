@@ -21,7 +21,7 @@ http://dolcesirena.com.br
 ## KIRON
 
 ###### Website
-http://kironunesc.com.br
+http://kironunesc.net.br
 
 ###### Webtv
 http://webtv.kironunesc.net.br
